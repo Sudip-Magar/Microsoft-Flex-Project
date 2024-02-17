@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.con{
+    width: 1150px;
+    margin: auto;
+    padding: 20px 0;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+.menu li{
+    list-style: none;
+}
+.menu a{
+    text-decoration: none;
+    color: black;
+}
+.menu{
+    margin-right: 300px;
+}
+.menu2 img{
+    margin-left: 10px;
+}
+.back{
+    background: url(https://i.ibb.co/zGSDGCL/slide1.png) no-repeat center;
+    text-align: center;
+    padding: 230px 0 60px;
+    background-size: cover;
+
+}
+.btm{
+    text-decoration: none;
+    color: white;
+    background: black;
+    padding: 10px 20px;
+    font-weight: bolder;
+}
+.back p{
+    margin-bottom: 40px;
+    margin-top: 8px;
+}
+.learn{
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: large;
+}
+h2{
+    margin: 5px;
+}
+.mg2 img{
+    width: 100%;
+}
+.back2{
+    background: url(https://i.ibb.co/tBJGPD9/xbox.png) no-repeat;
+    background-size: cover;
+    padding: 140px 50px;
+}
+.back2 p{
+    font-size: 18px;
+    margin: 8px 0 30px;
+}
+.mar{
+    margin: 9px 0;
+}
+.flex1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.back3{
+    background: url(https://i.ibb.co/72cgtsz/carbon.jpg);
+    background-size: cover;
+    padding: 100px 25px;
+    color: white;
+    font-size: larger;
+}
+.back3 .btm{
+    background: white;
+    color: black;
+}
+.back3 p{
+    margin: 10px 0 30px;
+}
+.flex3{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+footer{
+    background: #F2F2F2;
+}
+.ll li{
+    list-style: none;
+    margin: 20px;
+}
+.size{
+    font-size: 11px;
+}
